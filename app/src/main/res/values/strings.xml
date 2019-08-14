@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentPassingData</string>
+    <string name="dial_number">Dial Phone</string>
+    <string name="move_with_result">move_with_result</string>
+    <string name="result_from_activity">Hasil</string>
+    <string name="choose_number"></string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+</resources>
